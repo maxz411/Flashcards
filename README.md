@@ -7,7 +7,7 @@
 1. Aller sur le site de [Anki](https://apps.ankiweb.net/).
 2. Choisir la bonne version.
 3. Après avoir installé, doublecliquez sur le fichier .apkg
-4. Importez avec toutes les options désactivées.\
+4. Importez avec toutes les options désactivées.
 
 ## Je vois pas comment get le fichier...
 1. Ouvrez le fichier:
